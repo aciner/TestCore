@@ -1,0 +1,15 @@
+name: Test
+version: '0.01-ALPHA'
+main: me.aciner.test.Test
+api-version: '1.21'
+authors: [ aciner ]
+commands:
+  fly:
+  flyspeed:
+  gamemode:
+  gmc:
+  gms:
+  gmsp:
+  gma:
+  heal:
+  feed:
